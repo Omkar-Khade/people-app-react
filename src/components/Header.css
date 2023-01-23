@@ -1,0 +1,20 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    background-color: aqua;
+    height: 7vh;
+    align-items: center;
+    padding-left: 5px;
+    padding-right: 10px;
+}
+
+.headerText {
+    display: flex;
+    height: 7vh;
+    align-items: center;
+    padding-left: 10px;
+}
+
+.css-tzssek-MuiSvgIcon-root {
+    padding-left: 5px !important;
+}
